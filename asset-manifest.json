@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewYorkTimes-API/static/css/main.12a43950.chunk.css",
+    "main.js": "/NewYorkTimes-API/static/js/main.16f270a6.chunk.js",
+    "main.js.map": "/NewYorkTimes-API/static/js/main.16f270a6.chunk.js.map",
+    "runtime-main.js": "/NewYorkTimes-API/static/js/runtime-main.9672a38d.js",
+    "runtime-main.js.map": "/NewYorkTimes-API/static/js/runtime-main.9672a38d.js.map",
+    "static/js/2.491b6670.chunk.js": "/NewYorkTimes-API/static/js/2.491b6670.chunk.js",
+    "static/js/2.491b6670.chunk.js.map": "/NewYorkTimes-API/static/js/2.491b6670.chunk.js.map",
+    "static/js/3.7976ff32.chunk.js": "/NewYorkTimes-API/static/js/3.7976ff32.chunk.js",
+    "static/js/3.7976ff32.chunk.js.map": "/NewYorkTimes-API/static/js/3.7976ff32.chunk.js.map",
+    "index.html": "/NewYorkTimes-API/index.html",
+    "static/css/main.12a43950.chunk.css.map": "/NewYorkTimes-API/static/css/main.12a43950.chunk.css.map",
+    "static/js/2.491b6670.chunk.js.LICENSE.txt": "/NewYorkTimes-API/static/js/2.491b6670.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9672a38d.js",
+    "static/js/2.491b6670.chunk.js",
+    "static/css/main.12a43950.chunk.css",
+    "static/js/main.16f270a6.chunk.js"
+  ]
+}
